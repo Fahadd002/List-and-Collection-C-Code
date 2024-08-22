@@ -1,0 +1,7 @@
+D:\Module_02_C#\List_Work\Collection_works\bin\Debug\Collection_works.exe.config
+D:\Module_02_C#\List_Work\Collection_works\bin\Debug\Collection_works.exe
+D:\Module_02_C#\List_Work\Collection_works\bin\Debug\Collection_works.pdb
+D:\Module_02_C#\List_Work\Collection_works\obj\Debug\Collection_works.csproj.AssemblyReference.cache
+D:\Module_02_C#\List_Work\Collection_works\obj\Debug\Collection_works.csproj.CoreCompileInputs.cache
+D:\Module_02_C#\List_Work\Collection_works\obj\Debug\Collection_works.exe
+D:\Module_02_C#\List_Work\Collection_works\obj\Debug\Collection_works.pdb

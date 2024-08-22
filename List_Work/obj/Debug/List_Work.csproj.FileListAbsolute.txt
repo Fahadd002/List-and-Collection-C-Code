@@ -1,0 +1,7 @@
+D:\Module_02_C#\List_Work\List_Work\bin\Debug\List_Work.exe.config
+D:\Module_02_C#\List_Work\List_Work\bin\Debug\List_Work.exe
+D:\Module_02_C#\List_Work\List_Work\bin\Debug\List_Work.pdb
+D:\Module_02_C#\List_Work\List_Work\obj\Debug\List_Work.csproj.AssemblyReference.cache
+D:\Module_02_C#\List_Work\List_Work\obj\Debug\List_Work.csproj.CoreCompileInputs.cache
+D:\Module_02_C#\List_Work\List_Work\obj\Debug\List_Work.exe
+D:\Module_02_C#\List_Work\List_Work\obj\Debug\List_Work.pdb

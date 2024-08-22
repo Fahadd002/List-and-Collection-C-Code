@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Module_02_C#\\List_Work\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE063CF6-AF02-4CD1-B8A8-A491ED202FD0}|Collection_works\\Collection_works.csproj|d:\\module_02_c#\\list_work\\collection_works\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE063CF6-AF02-4CD1-B8A8-A491ED202FD0}|Collection_works\\Collection_works.csproj|solutionrelative:collection_works\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E04A2757-6C95-40B8-A6FC-3F938D7EE87A}|List_Work\\List_Work.csproj|d:\\module_02_c#\\list_work\\list_work\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E04A2757-6C95-40B8-A6FC-3F938D7EE87A}|List_Work\\List_Work.csproj|solutionrelative:list_work\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Module_02_C#\\List_Work\\Collection_works\\Program.cs",
+              "RelativeDocumentMoniker": "Collection_works\\Program.cs",
+              "ToolTip": "D:\\Module_02_C#\\List_Work\\Collection_works\\Program.cs",
+              "RelativeToolTip": "Collection_works\\Program.cs",
+              "ViewState": "AQIAAC0AAADAMjMzMzMfwEEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T16:38:23.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Module_02_C#\\List_Work\\List_Work\\Program.cs",
+              "RelativeDocumentMoniker": "List_Work\\Program.cs",
+              "ToolTip": "D:\\Module_02_C#\\List_Work\\List_Work\\Program.cs",
+              "RelativeToolTip": "List_Work\\Program.cs",
+              "ViewState": "AQIAAC8AAAAA+P////8fwCYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T16:05:27.561Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
